@@ -1,2 +1,2 @@
-# FPGAspeaks1
+# FPGAspeaks
 this i am creating for github video
